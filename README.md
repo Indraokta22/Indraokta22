@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">I'm Indra</p>
+<p align="left">
+  I'm Indra
+  Creative Designer | Frontend Web Developer | IT Enthusiast
+</p>
 
 ###
 
