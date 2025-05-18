@@ -4,8 +4,12 @@
 
 <p align="left">
   I'm Indra
-  Creative Designer | Frontend Web Developer | IT Enthusiast
 </p>
+
+<p align="left">
+ Creative Designer | Frontend Web Developer | IT Enthusiast
+</p>
+
 
 ###
 
